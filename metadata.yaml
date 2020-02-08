@@ -1,0 +1,29 @@
+_repo: History-of-Indian-and-Eastern-Architecture_61178
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fergusson, James
+    birthdate: 1808
+    deathdate: 1886
+    gutenberg_agent_id: '47440'
+    url: http://www.gutenberg.org/2009/agents/47440
+    wikipedia: https://en.wikipedia.org/wiki/James_Fergusson_(architect)
+description: ''
+gutenberg_issued: '2020-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- India'
+- !lcc 'NA'
+- !lcsh 'Architecture, Asian'
+- GITenberg
+tableOfContents: Buddhist architecture -- Jaina architecture -- Architecture in the
+  Himalayas -- Dravidian style -- Chalukyan style -- Northern or Indo-Aryan style
+  -- Indian Saracenic architecture -- Further India -- China.
+title: History of Indian and Eastern Architecture
+url: http://www.gutenberg.org/ebooks/61178
